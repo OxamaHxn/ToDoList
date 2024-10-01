@@ -1,0 +1,1 @@
+/Users/usamahassan/Desktop/Projects/ToDoApp/node_modules/react-native-vector-icons/Fonts
